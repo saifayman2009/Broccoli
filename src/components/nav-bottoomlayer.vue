@@ -65,7 +65,7 @@ const navs = ref([
     {id: 4, label: 'News Right sidebar'},
     {id: 5, label: 'News details'},
   ]},
-  {id: 5, label: 'Pages', list}
+  {id: 5, label: 'Pages'}
 ])
 
 </script>
