@@ -1,5 +1,5 @@
 <template>
-  <div class="top-layer container flex justify-between mx-auto px-[180px] py-2 border-b border-gray-200 !w-full" >
+  <div class="top-layer container flex justify-between mx-auto  py-2 border-b border-gray-200 !w-full" >
     <div class="flex items-center gap-9">
       <p class=" font-bold text-[15px] hover:text-[#80B500] transition duration-300"><i class="pi pi-map-marker text-[#80B500]"></i> 15/A, Nest Tower, NYC</p>
       <p class=" font-bold text-[15px] hover:text-[#80B500] transition duration-300"><i class="pi pi-envelope text-[#80B500]"></i> info@webmail.com</p>
@@ -10,7 +10,7 @@
           English <i class="pi pi-arrow-down !text-[14px]  text-[#80B500]"></i>
         </p>
         <div
-          class="absolute right-0 top-14 mt-2 w-48 bg-white rounded shadow-lg
+          class="absolute right-0 top-14 mt-2 w-48 bg-white  shadow-lg
                 opacity-0 invisible group-hover:opacity-100 group-hover:visible
                 transition-all duration-500 group-hover:top-6"
         >
